@@ -32,7 +32,7 @@
     },
     {
       "id": "web-utils",
-      "versionRange": "^0.6.3",
+      "versionRange": "^0.6.0",
       "additionalData": {}
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "id": "bs-cordl",
-      "versionRange": "^3701.0.0",
+      "versionRange": "^3700.0.0",
       "additionalData": {}
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "id": "bsml",
-      "versionRange": "^0.4.44",
+      "versionRange": "^0.4.37",
       "additionalData": {}
     },
     {
